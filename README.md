@@ -1,2 +1,3 @@
-# Formulario_simple_django
-Ejemplo de Formulario simple usando django
+# Formularios_django
+
+Se busca desarollar algunso ejemplos de Formulario django
